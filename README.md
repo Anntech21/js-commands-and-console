@@ -8,13 +8,13 @@
     b. Find an article online that describes how to connect your JS to your HTML - remember Google is your best friend for refreshers!
 
 ## Console.log + dev tools 
-1. Back in your `custom.js` file, write this command: `console.log(“Hello, World!”)`
+1. Back in your `custom.js` file, write this command: `console.log(“Hello, World!”);`
 2. Start live server
 3. Go to your browser
     a. Open dev tools
     b. Click on the console tab
     c. What do you see?
-4. In your `custom.js` file, take away the quotes from your console.log, so it reads:   `console.log(Hello, World!)`
+4. In your `custom.js` file, take away the quotes from your console.log, so it reads:   `console.log(Hello, World!);`
     a. What happens in the console?
     b. Read the error very carefully
     c. Remember errors are your friend!
@@ -25,7 +25,7 @@
     b. What happens when you don’t?
 
 ## Alerts
-1. In your JS file, write `alert(“Hello, World!”)`
+1. In your JS file, write `alert(“Hello, World!”);`
 2. Refresh the page in the browser - what happens?
 3. What are some real-life alerts you have seen?
 4. Write another alert that copies one you might see on a website
@@ -33,8 +33,8 @@
 
 ## Prompts (and declaring your first variable!)
 1. In your JS file, write: 
-    `var firstName = prompt(“What is your first name?”)`
-    `console.log(firstName)`
+    `let firstName = prompt(“What is your first name?”);`
+    `console.log(firstName);`
 2. Back in your browser, refresh the page
 3. Answer the prompt
 4. Look in the console, what do you see?
