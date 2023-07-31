@@ -4,8 +4,8 @@
 1. After forking and closing this repo, create a folder called `js`, in the root of this repo.
 2. In your `js` folder, create a file called `custom.js`
 3. Connect your `js` file to your `index.html`
-    a. In `index.html`, at the bottom of your file, above the closing body tag, add your `script tag`
-    b. Find an article online that describes how to connect your JS to your HTML - remember Google is your best friend for refreshers!
+  - In `index.html`, at the bottom of your file, above the closing body tag, add your `script tag`
+  -  Find an article online that describes how to connect your JS to your HTML - remember Google is your best friend for refreshers!
 
 ## Console.log + dev tools 
 1. Back in your `custom.js` file, write this command: `console.log(“Hello, World!”);`
