@@ -35,8 +35,8 @@
 1. In your JS file, write: 
 
 ``` javascript
-`let firstName = prompt(“What is your first name?”);`
-`console.log(firstName);`
+let firstName = prompt(“What is your first name?”);
+console.log(firstName);
 ```
 
 2. Back in your browser, refresh the page
