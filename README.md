@@ -2,20 +2,20 @@
 
 ### Create + Connect A JavaScript File
 
-1. After forking and cloning this repo, create a folder called `js` in the root of this repo.
+1. After forking and cloning this repo, navigate into the repository's directory (use `cd`!) and create a folder called `js` in the root of this repo (use `mkdir`!).
 2. In your `js` folder, create a file called `custom.js`.
-3. Connect your `js` file to your `index.html`.
+3. Connect your `js` file to your `index.html`. 
 
-- In `index.html`, at the bottom of your file, above the closing body tag, add your `script tag`.
-- Find an article online that describes how to connect your JS to your HTML - remember Google is your best friend for refreshers!
+- In `index.html`, in the `head`, add your `script` tag. Remember that you need the path to the file—it's in the `js` folder!
+- If you're not sure how to do the above, find an article online that describes how to connect your JS to your HTML—remember that the internet is your best friend for refreshers!
 
 ### Dev Tools + Console.Log
 
 1. Back in your `custom.js` file, write this command: `console.log(“Hello, World!”);`
 2. Start Live Server.
 3. Go to your browser.
-   1. Open dev tools.
-   2. Click on the console tab.
+   1. Open Dev Tools.
+   2. Click on the "Console" tab.
    3. What do you see?
 4. In your `custom.js` file, take away the quotes from your `console.log`, so it reads: `console.log(Hello, World!);`
    1. What happens in the console?
