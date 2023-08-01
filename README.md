@@ -1,4 +1,4 @@
-# JavaScript - Let’s get started!
+# JavaScript - Commands and  Console
 
 ### Create + Connect A JavaScript File
 
