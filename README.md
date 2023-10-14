@@ -1,13 +1,13 @@
-# JavaScript - Commands and  Console
+# JavaScript - Commands and Console
 
 ### Create + Connect A JavaScript File
 
-1. After forking and cloning this repo, navigate into the repository's directory (use `cd`!) and create a folder called `js` in the root of this repo (use `mkdir`!).
-2. In your `js` folder, create a file called `custom.js`.
-3. Connect your `js` file to your `index.html`. 
-
-- In `index.html`, in the `head`, add your `script` tag. Remember that you need the path to the file—it's in the `js` folder!
-- If you're not sure how to do the above, find an article online that describes how to connect your JS to your HTML—remember that the internet is your best friend for refreshers!
+1. After forking and cloning this repo, navigate into the repository's directory (use `cd`!) and create an `index.html` file there.
+2. Create a folder called `js`.
+3. In your `js` folder, create a file called `custom.js`.
+4. Connect your `js` file to your `index.html`.
+   - In `index.html`, in the `head`, add your `script` tag. Remember that you need the path to the file—it's in the `js` folder!
+   - If you're not sure how to do the above, find an article online that describes how to connect your JS to your HTML—remember that the internet is your best friend for refreshers!
 
 ### Dev Tools + Console.Log
 
@@ -49,6 +49,6 @@ console.log(firstName);
 4. Look in the console, what do you see?
 5. What happens when you add quotes to `firstName`?
 
-``` javascript
+```javascript
 console.log(“firstName”)
 ```
